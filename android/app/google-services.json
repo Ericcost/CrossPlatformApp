@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "937549052951",
+    "project_id": "crossplatformapp-a7659",
+    "storage_bucket": "crossplatformapp-a7659.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:937549052951:android:dad87803536b23969db052",
+        "android_client_info": {
+          "package_name": "com.noesia.crossplatformapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6v_-XLcIgIYcp2PwLX_2A0dGeh-wiYrI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
